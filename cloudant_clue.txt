@@ -1,0 +1,9 @@
+curl https://idervarattogrestaloveran:8wqkJjaSoWn1KNnGnSrroknA@jeydeveloper.cloudant.com/_users
+
+curl https://idervarattogrestaloveran:8wqkJjaSoWn1KNnGnSrroknA@jeydeveloper.cloudant.com/api
+  
+Key
+idervarattogrestaloveran
+Password
+8wqkJjaSoWn1KNnGnSrroknA
+Please make a note of the password now. For security reasons, we will not store it for you to retrieve in the future.
